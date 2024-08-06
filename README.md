@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SinaMeftah
-- 👀 I’m interested in Python environment
-- 🌱 I’m currently learning Neuroscience and Cognitive Science. Therefore, learnign web design for mass cognition evaluation.
-- 💞️ I’m looking to collaborate on Psychopy.
+- 👀 I’m interested in Intelligence, natural or artificial.
+- 🌱 I’m currently learning Neuro and Cognitive Science.
+- 💞️ I’m looking to collaborate on AI and Neuroscience.
 
 <!---
 SinaMeftah/SinaMeftah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
