@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SinaMeftah
 - 👀 I’m interested in Intelligence, natural or artificial.
-- 🌱 I’m currently learning Neuro and Cognitive Science.
+- 🌱 I’m currently learning Computational Neuroscience and AI.
 - 💞️ I’m looking to collaborate on AI and Neuroscience.
 
 <!---
